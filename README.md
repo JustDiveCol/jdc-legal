@@ -1,6 +1,6 @@
 # 📘 JustDiveCol – Documentos Legales
 
-Repositorio oficial que contiene los **documentos legales, formularios, políticas y descargos de responsabilidad** de **JustDiveCol S.A.S.**  
+Repositorio oficial que contiene los **documentos legales, formularios, políticas y descargos de responsabilidad** de **JustDiveCol**  
 Este sitio se publica de manera automática mediante **GitHub Pages** y está disponible en:
 
 👉 [https://legal.justdivecol.com](https://legal.justdivecol.com)
@@ -96,7 +96,7 @@ Luego abre [http://localhost:3000](http://localhost:3000).
 
 ## 🛡️ Licencia y uso
 
-Los documentos aquí contenidos son propiedad de **JustDiveCol S.A.S.**  
+Los documentos aquí contenidos son propiedad de **JustDiveCol**  
 Su reproducción o uso fuera del contexto de las actividades de la empresa está prohibida sin autorización expresa.
 
-© JustDiveCol S.A.S. – Todos los derechos reservados.
+© JustDiveCol – Todos los derechos reservados.
